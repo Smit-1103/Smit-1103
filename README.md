@@ -6,8 +6,6 @@
 
 🎓 Postgraduate Student | 🖥️ Software Engineer | 📱 Flutter/Android Developer
 
-📸 Photography Enthusiast | 🎵 Music Lover | ✈️ Traveler
-
 ### About Me
 
 I'm Smit Patel, a software engineer and developer from India. Currently pursuing my Masters in Applied Computing, I have a keen interest in developing apps, websites, and software solutions. With a focus on Flutter and Android development, I'm passionate about creating intuitive and efficient solutions. Beyond coding, I enjoy photography, discovering new music, and traveling the world.
