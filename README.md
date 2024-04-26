@@ -15,5 +15,6 @@ I'm Smit Patel, a software engineer and developer from India. Currently pursuing
 
 ### My Projects
 
-Feel free to explore more of my projects on my (https://github.com/Smit-1103).
+Explore my projects
+
 [![All Repositories](https://img.shields.io/badge/All%20Repositories-View%20All-brightgreen)](https://github.com/Smit-1103?tab=repositories)
