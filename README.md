@@ -22,4 +22,4 @@ Explore my projects
 
 ### Portfolio
 
-Check out my portfolio to see my work: [Portfolio Site](https://portfolio-smit-b5ghd32ht-smit1103s-projects.vercel.app)
+Check out my portfolio to see my work: [Portfolio Site](https://portfolio-smit.vercel.app/)
